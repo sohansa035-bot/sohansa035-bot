@@ -1,44 +1,142 @@
-# 🚀 Tech Head & Operations Lead | AI/ML Engineer
+<div align="center">
 
-A results-driven professional specializing in deploying intelligent systems, optimizing digital infrastructure, and leading technical execution from concept to deployment. Focused on building high-impact solutions across Applied AI, Computer Vision, and autonomous IoT architectures while driving engineering management strategies.
+# Hi 👋, I'm Sohan Saha
 
----
+### Technical Co-Head @ IEEE TEMS REVA University
 
-### 💼 Leadership & Ecosystem Impact
+**Python Developer • Web Developer • Computer Vision Enthusiast**
 
-*   **Technical Co-Head @ IEEE TEMS REVA University** — Driving the integration of technical strategy and management principles within the student branch chapter. Managing tech roadmaps, architecting event operational frameworks, and bridging the gap between product development and engineering operations.
+Building projects, leading technical teams, and continuously learning emerging technologies.
 
----
-
-### 🛠️ Core Competencies & Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Artificial Intelligence & ML** | Python, Computer Vision (YOLOv8, OpenCV), Predictive Modeling, NumPy, Data Science |
-| **Systems, Logic & Hardware** | Modular C Programming, Data Structures, IoT Architecture, ESP32-CAM, Robotics |
-| **Web Infrastructure & UI** | Frontend Architecture, HTML5, CSS3, Responsive Operational Dashboards |
-| **Leadership & Strategy** | Operations Management, Technical Event Architecture, Technical Roadmaps |
+</div>
 
 ---
 
-### 📈 Ventures & Active Impact
+## 🚀 About Me
 
-*   **🌱 OpenEnv** — Architecting an open-source, data-driven framework focused on environmental metrics tracking, system modularity, and optimized computational logic.
-*   **Terra Sense** — Designing and engineering an entrepreneurial AgTech venture focused on precision farming and climate prediction models.
-*   **IoT & Surveillance Robotics** — Architecting vision-based, autonomous obstacle-avoiding robotic vehicles utilizing mecanum wheels and integrated camera modules.
+🎓 Computer Science Engineering Student
+
+💼 Technical Co-Head, IEEE TEMS REVA University
+
+🐍 Python Developer
+
+🌐 Web Development Enthusiast
+
+🤖 Interested in Artificial Intelligence, Computer Vision, Quantum Computing, and Emerging Technologies
+
+🚀 Passionate about solving real-world problems through technology
 
 ---
 
-### 📊 GitHub Insights & Performance
+## 🌱 Currently Learning
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohansa035-bot&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohansa035-bot&layout=compact&theme=visual_studio_dark&hide=html,css" alt="Top Languages" height="180" />
+- Machine Learning
+- Data Science
+- Quantitative Analysis
+- Quantum Computing
+- System Design
+- Advanced Python
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- C
+
+### Web Development
+- HTML
+- CSS
+- Responsive Web Design
+
+### Libraries & Frameworks
+- NumPy
+- Pandas
+- OpenCV
+- Streamlit
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+### IoT & Hardware
+- ESP32-CAM
+- Sensor Integration
+- Robotics Fundamentals
+
+---
+
+## 🏆 Leadership
+
+### IEEE TEMS REVA University — Technical Co-Head
+
+- Conduct technical recruitment interviews
+- Organize workshops and technical events
+- Mentor student project teams
+- Support chapter technical initiatives
+- Collaborate on innovation and entrepreneurship activities
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ AI SOC Threat Pipeline
+AI-powered security analytics and threat monitoring platform.
+
+### 🌱 OpenEnv
+Environmental monitoring and analytics framework.
+
+### 🚜 Terra Sense
+Precision agriculture platform using data-driven insights.
+
+### 🤖 IoT Surveillance Robotics
+Autonomous surveillance system using ESP32-CAM and Computer Vision.
+
+### 📊 Data Analytics Projects
+Projects focused on data analysis, visualization, and insights.
+
+---
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Quantum Computing
+- Cybersecurity
+- IoT & Robotics
+- Open Source Development
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohansa035-bot&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohansa035-bot&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
-*   **LinkedIn:** [linkedin.com/in/sohan-saha](https://www.linkedin.com/in/sohan-saha-130353399)
-*   **Professional Email:** sohansa035@gmail.com
+📧 Email: sohansa035@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/sohan-saha
+
+🐙 GitHub: github.com/sohansa035-bot
+
+---
+
+<div align="center">
+
+### ⭐ Learn • Build • Lead • Repeat
+
+</div>
