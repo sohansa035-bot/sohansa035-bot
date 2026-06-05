@@ -107,7 +107,6 @@ Projects focused on data analysis, visualization, and insights.
 - Machine Learning
 - Computer Vision
 - Quantum Computing
-- Cybersecurity
 - IoT & Robotics
 - Open Source Development
 
