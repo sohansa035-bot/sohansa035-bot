@@ -40,6 +40,5 @@ A results-driven professional specializing in deploying intelligent systems, opt
 
 ### 🤝 Connect With Me
 
-*   **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-*   **Professional Email:** your.email@example.com
-
+*   **LinkedIn:** [linkedin.com/in/sohan-saha](https://www.linkedin.com/in/sohan-saha-130353399)
+*   **Professional Email:** sohansa035@gmail.com
