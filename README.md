@@ -62,6 +62,8 @@ Building projects, leading technical teams, and continuously learning emerging t
 - GitHub
 - VS Code
 - Jupyter Notebook
+- Docker
+- Hugging face 
 
 ### IoT & Hardware
 - ESP32-CAM
