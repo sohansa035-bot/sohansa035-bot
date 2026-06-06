@@ -14,7 +14,7 @@ Building projects, leading technical teams, and continuously learning emerging t
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering Student
+🎓 AIML Student
 
 💼 Technical Co-Head, IEEE TEMS REVA University
 
