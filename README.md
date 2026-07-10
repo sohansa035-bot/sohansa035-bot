@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/sohansa035-bot/sohansa035-bot/raw/main/banner.svg" alt="Sohan Saha - Building Intelligent Systems" width="100%" />
+<img src="./banner.svg" alt="Sohan Saha - Building Intelligent Systems" width="100%" />
 
 <br/>
 
