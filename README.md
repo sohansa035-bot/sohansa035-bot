@@ -25,7 +25,7 @@ Building software that transforms complex problems into practical, scalable solu
 
 ### ✦ About Me
 - 🎓 **AIML Student** at REVA University
-- 🧠 **Exploring** AI, Machine Learning and Advanced Software Architecture
+- 🧠 **Exploring** AI, Machine Learning and Modern Software Engineering
 - 🚀 **Turning ideas** into high-impact software products
 - 💡 **Passionate** about entrepreneurship and product innovation
 - 🤝 **Open-source contributor** and IEEE Technical Co-Head
@@ -36,8 +36,8 @@ Building software that transforms complex problems into practical, scalable solu
 
 **Technical & Digital Operations Intern** | *OptCELL Global*
 - Developed frontend components for internal products.
-- Contributed to product engineering workflows.
-- Collaborated on feature implementation and technical operations.
+- Collaborated on feature implementation across engineering teams.
+- Supported product engineering and digital operations.
 
 <br/>
 
@@ -71,8 +71,9 @@ Building software that transforms complex problems into practical, scalable solu
 
 ### ✦ Leadership
 
-**Technical Co-Head** | *IEEE TEMS REVA University*
-- Leading technical initiatives, innovation programs, hackathons, and engineering collaboration within IEEE TEMS REVA University.
+🏆 **Technical Co-Head** | *IEEE TEMS REVA University*
+
+Leading technical initiatives, innovation programs, hackathons, and engineering collaboration within IEEE TEMS REVA University.
 
 <br/>
 
@@ -107,7 +108,7 @@ Currently Exploring:
 
 ### ✦ Featured Technologies
 
-`Python` • `FastAPI` • `React` • `Next.js` • `Docker` • `Git` • `Linux`
+`Python` • `FastAPI` • `Streamlit` • `Next.js` • `React` • `Docker` • `Git` • `Linux`
 
 <br/>
 
@@ -124,7 +125,7 @@ Currently Exploring:
 
 <div align="center">
   <a href="mailto:sohansa035@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sohan-saha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sohan-saha-130353399/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sohansa035-bot"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
