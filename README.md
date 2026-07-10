@@ -1,143 +1,137 @@
 <div align="center">
 
-# Hi 👋, I'm Sohan Saha
+<img src="./banner.svg" alt="Sohan Saha - Building Intelligent Systems" width="100%" />
 
-### Technical Co-Head @ IEEE TEMS REVA University
+<br/>
 
-**Python Developer • Web Developer • Computer Vision Enthusiast**
+# Building Intelligent Systems
 
-Building projects, leading technical teams, and continuously learning emerging technologies.
+### AI • Software Engineering • Product Engineering • Entrepreneurship
+
+Building software that transforms complex problems into practical, scalable solutions.
+
+<br/>
+
+**I'm Sohan Saha, an AIML student passionate about building AI-powered products that transform ideas into practical software solutions.**
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+### ✦ Mission
+> Building intelligent systems that combine AI, software engineering and product thinking to solve meaningful real-world problems.
 
-🎓 AIML Student
+<br/>
 
-💼 Technical Co-Head, IEEE TEMS REVA University
+### ✦ About Me
+- 🎓 **AIML Student** at REVA University
+- 🧠 **Exploring** AI, Machine Learning and Advanced Software Architecture
+- 🚀 **Turning ideas** into high-impact software products
+- 💡 **Passionate** about entrepreneurship and product innovation
+- 🤝 **Open-source contributor** and IEEE Technical Co-Head
 
-🐍 Python Developer
+<br/>
 
-🌐 Web Development Enthusiast
+### ✦ Experience
 
-🤖 Interested in Artificial Intelligence, Computer Vision, Quantum Computing, and Emerging Technologies
+**Technical & Digital Operations Intern** | *OptCELL Global*
+- Developed frontend components for internal products.
+- Contributed to product engineering workflows.
+- Collaborated on feature implementation and technical operations.
 
-🚀 Passionate about solving real-world problems through technology
+<br/>
 
----
+### ✦ What I Build
+- AI-powered Products
+- Research-driven Prototypes
+- Scalable Software Systems
+- Open Source Projects
+- Innovation-focused Solutions
 
-## 🌱 Currently Learning
+<br/>
 
-- Machine Learning
-- Data Science
-- Quantitative Analysis
-- Quantum Computing
-- System Design
-- Advanced Python
+### ✦ Featured Projects
 
----
+|   | Project | Description |
+|:-:|:--------|:------------|
+| 🌱 | **[TerraSense](https://github.com/sohansa035-bot/TerraSense)** | AI-powered agricultural decision support platform |
+| 🛡 | **[AI-SOC](https://github.com/sohansa035-bot/AI-SOC-Threat-Pipeline)** | AI-assisted SOC automation and threat analysis platform |
+| 🤖 | **[OpenEnv](https://github.com/sohansa035-bot/OpenEnv)** | Open benchmark environment for evaluating AI agents on SRE incident response tasks |
+| 🛰 | **[Yugēn](https://github.com/sohansa035-bot/Yugen)** | AI-powered autonomous surveillance rover |
+| 🏢 | **[SMPS](https://github.com/sohansa035-bot/SMPS)** | Research lab for product and technology innovation |
 
-## 🛠️ Technical Skills
+<br/>
 
-### Programming Languages
-- Python
-- C
+### ✦ Open Source Contributions
 
-### Web Development
-- HTML
-- CSS
-- Responsive Web Design
+- **[AutoSRE-PostMortem](https://github.com/sohansa035-bot/AutoSRE-PostMortem)** — *Contributor*
+- **[OptCELL Global](https://github.com/sohansa035-bot/OptCELL-Global)** — *Contributor*
 
-### Libraries & Frameworks
-- NumPy
-- Pandas
-- OpenCV
-- Streamlit
-- Matplotlib
+<br/>
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Docker
-- Hugging face 
+### ✦ Leadership
 
-### IoT & Hardware
-- ESP32-CAM
-- Sensor Integration
-- Robotics Fundamentals
+**Technical Co-Head** | *IEEE TEMS REVA University*
+- Leading technical initiatives, innovation programs, hackathons, and engineering collaboration within IEEE TEMS REVA University.
 
----
+<br/>
 
-## 🏆 Leadership
+### ✦ Career Vision
 
-### IEEE TEMS REVA University — Technical Co-Head
+I'm working toward building AI-powered products and intelligent systems that create practical impact through thoughtful engineering, innovation, and entrepreneurship.
 
-- Conduct technical recruitment interviews
-- Organize workshops and technical events
-- Mentor student project teams
-- Support chapter technical initiatives
-- Collaborate on innovation and entrepreneurship activities
+<br/>
 
----
+### ✦ Current Focus
 
-## 🚀 Featured Projects
+Currently Exploring:
+- `Machine Learning`
+- `AI Agents`
+- `Product Engineering`
+- `Robotics`
+- `Open Source`
 
-### 🛡️ AI SOC Threat Pipeline
-AI-powered security analytics and threat monitoring platform.
+<br/>
 
-### 🌱 OpenEnv
-Environmental monitoring and analytics framework.
+### ✦ Research Interests
 
-### 🚜 Terra Sense
-Precision agriculture platform using data-driven insights.
+`Artificial Intelligence` • `Machine Learning` • `AI Agents` • `Robotics` • `AgriTech` • `Product Engineering` • `Entrepreneurship`
 
-### 🤖 IoT Surveillance Robotics
-Autonomous surveillance system using ESP32-CAM and Computer Vision.
+<br/>
 
-### 📊 Data Analytics Projects
-Projects focused on data analysis, visualization, and insights.
+### ✦ Engineering Philosophy
 
----
+> I enjoy transforming ideas into intelligent software systems. I believe in understanding the problem first, building modular solutions, documenting decisions, and continuously iterating based on feedback.
 
-## 🎯 Areas of Interest
+<br/>
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Quantum Computing
-- IoT & Robotics
-- Open Source Development
+### ✦ Featured Technologies
 
----
+`Python` • `FastAPI` • `React` • `Next.js` • `Docker` • `Git` • `Linux`
 
-## 📈 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohansa035-bot&show_icons=true&theme=github_dark" />
-</p>
+### ✦ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohansa035-bot&layout=compact&theme=github_dark" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohansa035-bot&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8b949e&icon_color=white" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohansa035-bot&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=8b949e" height="165" alt="Top Languages" />
+</div>
 
----
+<br/>
 
-## 🤝 Connect With Me
+### ✦ Let's Connect
 
-📧 Email: sohansa035@gmail.com
+<div align="center">
+  <a href="mailto:sohansa035@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sohan-saha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/sohansa035-bot"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
-💼 LinkedIn: www.linkedin.com/in/sohan-saha
-
-🐙 GitHub: github.com/sohansa035-bot
-
----
+<br/>
 
 <div align="center">
 
-### ⭐ Learn • Build • Lead • Repeat
+> **I believe the future belongs to intelligent systems that solve meaningful real-world problems—and I'm building the skills, products, and experience to contribute to that future.**
 
 </div>
