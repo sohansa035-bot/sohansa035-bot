@@ -1,0 +1,29 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Minimal Dark Background -->
+  <rect width="100%" height="100%" fill="#0A0A0A"/>
+  
+  <!-- Subtle Gradient Glow -->
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="0%" r="60%" fx="50%" fy="0%">
+      <stop offset="0%" stop-color="#2a2a2a" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0A0A0A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#glow)"/>
+  
+  <!-- Linear-style geometric grid -->
+  <path d="M 0 100 L 1200 100 M 0 200 L 1200 200 M 0 300 L 1200 300" stroke="#1A1A1A" stroke-width="1" fill="none"/>
+  <path d="M 300 0 L 300 400 M 600 0 L 600 400 M 900 0 L 900 400" stroke="#1A1A1A" stroke-width="1" fill="none"/>
+
+  <!-- Main Title -->
+  <text x="50%" y="45%" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#EDEDED" text-anchor="middle" letter-spacing="10">SOHAN SAHA</text>
+  
+  <!-- Subtitle -->
+  <text x="50%" y="60%" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#888888" text-anchor="middle" letter-spacing="4">Building Intelligent Systems</text>
+  
+  <!-- Tags -->
+  <text x="50%" y="75%" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#666666" text-anchor="middle" letter-spacing="2">AI • SOFTWARE ENGINEERING • PRODUCT ENGINEERING • ENTREPRENEURSHIP</text>
+
+  <!-- Accent Line -->
+  <line x1="45%" y1="85%" x2="55%" y2="85%" stroke="#444444" stroke-width="2"/>
+</svg>
