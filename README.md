@@ -1,40 +1,39 @@
 <div align="center">
 
-<img src="https://github.com/sohansa035-bot/sohansa035-bot/raw/main/banner.svg" alt="Sohan Saha - Building Intelligent Systems" width="100%" />
+<img src="./banner.svg" alt="Sohan Saha - Building Intelligent Systems" width="100%" />
 
 <br/>
 
 # Building Intelligent Systems
 
-### AI • Software Engineering • Product Engineering • Entrepreneurship
-
-Building software that transforms complex problems into practical, scalable solutions.
-
-<br/>
-
-**I'm Sohan Saha, an AIML student passionate about building AI-powered products that transform ideas into practical software solutions.**
+### AI • Machine Learning • Intelligent Systems • AI Products • Entrepreneurship
 
 </div>
+
+**I'm Sohan Saha, a B.Tech Artificial Intelligence & Machine Learning student at REVA University passionate about building intelligent systems and AI-powered products that turn ideas into practical solutions.**
 
 <br/>
 
 ### ✦ Mission
-> Building intelligent systems that combine AI, software engineering and product thinking to solve meaningful real-world problems.
+
+> Building intelligent systems that combine AI, machine learning, and product thinking to turn complex problems into practical solutions.
 
 <br/>
 
 ### ✦ About Me
-- 🎓 **AIML Student** at REVA University
-- 🧠 **Exploring** AI, Machine Learning and Modern Software Engineering
-- 🚀 **Turning ideas** into high-impact software products
-- 💡 **Passionate** about entrepreneurship and product innovation
-- 🤝 **Open-source contributor** and IEEE Technical Co-Head
+
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** at REVA University
+- 🧠 **Exploring** Artificial Intelligence, Machine Learning, and AI Agents
+- 🚀 **Building** intelligent systems and AI-powered products
+- 💡 **Interested in** entrepreneurship and product innovation
+- 🤝 **Open-source contributor** and IEEE TEMS Technical Co-Head
 
 <br/>
 
 ### ✦ Experience
 
 **Technical & Digital Operations Intern** | *OptCELL Global*
+
 - Developed frontend components for internal products.
 - Collaborated on feature implementation across engineering teams.
 - Supported product engineering and digital operations.
@@ -42,10 +41,12 @@ Building software that transforms complex problems into practical, scalable solu
 <br/>
 
 ### ✦ What I Build
+
 - AI-powered Products
+- Intelligent Systems
+- Machine Learning Applications
+- AI Agent Systems
 - Research-driven Prototypes
-- Scalable Software Systems
-- Open Source Projects
 - Innovation-focused Solutions
 
 <br/>
@@ -54,17 +55,29 @@ Building software that transforms complex problems into practical, scalable solu
 
 |   | Project | Description |
 |:-:|:--------|:------------|
-| 🌱 | **[TerraSense](https://github.com/sohansa035-bot/TerraSense)** | AI-powered agricultural decision support platform |
-| 🛡 | **[AI-SOC](https://github.com/sohansa035-bot/AI-SOC-Threat-Pipeline)** | AI-assisted SOC automation and threat analysis platform |
-| 🤖 | **[OpenEnv](https://github.com/sohansa035-bot/OpenEnv)** | Open benchmark environment for evaluating AI agents on SRE incident response tasks |
-| 🛰 | **[Yugēn](https://github.com/sohansa035-bot/Yugen)** | AI-powered autonomous surveillance rover |
+| ⚙️ | **[AutoSRE-PostMortem](https://github.com/sohansa035-bot/AutoSRE-PostMortem)** | Autonomous SRE incident-response platform with root-cause analysis, counterfactual planning, safety controls, remediation, verification, and automated postmortem generation |
+| 🌱 | **[TerraSense](https://github.com/sohansa035-bot/TerraSense)** | AI-powered agricultural decision-support platform |
+| 🛡️ | **[AI-SOC Threat Pipeline](https://github.com/sohansa035-bot/AI-SOC-Threat-Pipeline)** | AI-assisted SOC automation and threat-analysis platform |
+| 🤖 | **[OpenEnv](https://github.com/sohansa035-bot/OpenEnv)** | Open benchmark environment for evaluating AI agents on SRE incident-response tasks |
+| 🛰️ | **[Yugēn](https://github.com/sohansa035-bot/Yugen)** | AI-powered autonomous surveillance rover |
 | 🏢 | **[SMPS](https://github.com/sohansa035-bot/SMPS)** | Research lab for product and technology innovation |
+
+<br/>
+
+### ✦ Selected Engineering Work
+
+**AutoSRE-PostMortem**
+
+An experimental autonomous SRE incident-response platform designed to evaluate intelligent incident handling through root-cause analysis, counterfactual planning, safety policies, remediation, verification, benchmarking, and automated postmortem generation.
+
+Key areas:
+
+`AI Agents` • `RCA` • `Incident Response` • `Simulation` • `Safety` • `Benchmarking` • `Automation`
 
 <br/>
 
 ### ✦ Open Source Contributions
 
-- **[AutoSRE-PostMortem](https://github.com/sohansa035-bot/AutoSRE-PostMortem)** — *Contributor*
 - **[OptCELL Global](https://github.com/sohansa035-bot/OptCELL-Global)** — *Contributor*
 
 <br/>
@@ -79,36 +92,46 @@ Leading technical initiatives, innovation programs, hackathons, and engineering 
 
 ### ✦ Career Vision
 
-I'm working toward building AI-powered products and intelligent systems that create practical impact through thoughtful engineering, innovation, and entrepreneurship.
+I'm working toward building AI-powered products and intelligent systems that turn ambitious ideas into practical solutions through machine learning, experimentation, engineering, and product thinking.
 
 <br/>
 
 ### ✦ Current Focus
 
 Currently Exploring:
+
+- `Artificial Intelligence`
 - `Machine Learning`
 - `AI Agents`
-- `Product Engineering`
-- `Robotics`
+- `Intelligent Systems`
+- `AI Product Development`
 - `Open Source`
 
 <br/>
 
 ### ✦ Research Interests
 
-`Artificial Intelligence` • `Machine Learning` • `AI Agents` • `Robotics` • `AgriTech` • `Product Engineering` • `Entrepreneurship`
+`Artificial Intelligence` • `Machine Learning` • `AI Agents` • `Intelligent Systems` • `Computer Vision` • `AgriTech` • `Autonomous Systems`
 
 <br/>
 
 ### ✦ Engineering Philosophy
 
-> I enjoy transforming ideas into intelligent software systems. I believe in understanding the problem first, building modular solutions, documenting decisions, and continuously iterating based on feedback.
+> I enjoy transforming ideas into intelligent systems. I believe in understanding the problem first, experimenting with practical solutions, building modular systems, documenting decisions, and continuously improving through feedback.
 
 <br/>
 
-### ✦ Featured Technologies
+### ✦ Technologies
 
-`Python` • `FastAPI` • `Streamlit` • `Next.js` • `React` • `Docker` • `Git` • `Linux`
+`Python` • `FastAPI` • `Streamlit` • `React` • `Next.js` • `Docker` • `Git` • `Linux`
+
+<br/>
+
+### ✦ Beyond Technology
+
+Outside technology, I enjoy:
+
+`Cricket` • `Football` • `Badminton` • `Drawing`
 
 <br/>
 
@@ -133,6 +156,6 @@ Currently Exploring:
 
 <div align="center">
 
-> **I believe the future belongs to intelligent systems that solve meaningful real-world problems—and I'm building the skills, products, and experience to contribute to that future.**
+> **I'm focused on learning deeply, building deliberately, and turning ambitious ideas into intelligent systems that create meaningful real-world impact.**
 
 </div>
