@@ -12,8 +12,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-sohansa035--bot-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sohansa035-bot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sohan%20Saha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohan-saha-130353399/)
-[![Email](https://img.shields.io/badge/Email-sohansa035%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sohansa035@gmail.com)
-🌐 **Portfolio:** [View My Portfolio](https://sohansa035-bot.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-5D41CF?style=flat-square&logo=vercel&logoColor=white)](https://sohansa035-bot.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-FB4D04?style=flat-square&logo=gmail&logoColor=white)](mailto:sohansa035@gmail.com)
 
 </div>
 
